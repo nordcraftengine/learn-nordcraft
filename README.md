@@ -4,6 +4,8 @@
 
 ## Lesson 1: Build a Linktree-style personal website
 
+[View the finished project](https://linktree.toddle.site/)
+
 ## Lesson 2: Build a Keanu Whoa! catalogue
 
 [View the finished project](https://whoa.toddle.site/)
