@@ -24,6 +24,9 @@ Never gonna give you up, never gonna let you down, never gonna run around and de
 [View the finished project](https://whoa.toddle.site/)
 
 - URL to Keanu Head: `https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-2/keanu_head.png`
+- URL to Movies API: `https://whoa.onrender.com/whoas/movies`
+- URL to Whoa by Movies API: `https://whoa.onrender.com/whoas/random`
+  - The full URL to get a Whoa by Movie with a query parameter will look like this: `https://whoa.onrender.com/whoas/random?movie=the%2520matrix`
 
 ## Lesson 3: Build a Pomodoro timer
 
