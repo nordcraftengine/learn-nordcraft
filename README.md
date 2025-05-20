@@ -6,6 +6,8 @@
 
 [View the finished project](https://linktree.toddle.site/)
 
+- URL to Rick's profile picture: `https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-1/rick.png`
+
 ## Lesson 2: Build a Keanu Whoa! catalogue
 
 [View the finished project](https://whoa.toddle.site/)
