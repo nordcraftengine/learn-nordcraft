@@ -23,4 +23,6 @@ https://whoa.onrender.com/whoas/random
 
 The full URL to get a Whoa by Movie with a query parameter will look like this:
 
-`https://whoa.onrender.com/whoas/random?movie=the%2520matrix`
+```text
+https://whoa.onrender.com/whoas/random?movie=the%2520matrix`
+```
