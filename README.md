@@ -1,62 +1,42 @@
 # Learn Nordcraft 2025
 
-## Lesson 0: What is Nordcraft?
+This repository includes supporting materials, assets and copy-pastable URLs and code snippets for the Learn Norcraft video course.
 
-## Lesson 1: Build a Linktree-style personal website
+Click on each bullet point below to go to the relevant section of the [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
-- [View the finished project](https://linktree.toddle.site/)
-- [Open Lesson 1 in the Nordcraft editor](https://editor.nordcraft.com/projects/linktree/branches/main/components/HomePage)
+## [Lesson 0: What is Nordcraft]
 
-### URL to Rick's profile picture
+Learn about:
 
-`https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-1/rick.png`
+- [The Web Development Engine](https://docs.nordcraft.com/about)
+- [Use cases](https://docs.nordcraft.com/use-cases)
+- [Core concepts](https://docs.nordcraft.com/use-cases)
 
-### Rick's bio split out into sentences and paragraphs for the about page
+## [Lesson 1: Build a Linktree-style personal website](/lesson-1)
 
-```text
-We're no strangers to love. You know the rules and so do I. A full commitment's what I'm thinking of: you wouldn't get this from any other guy. I just wanna tell you how I'm feeling, gotta make you understand. 
+Learn about:
 
-Never gonna give you up, never gonna let you down, never gonna run around and desert you. Never gonna make you cry, never gonna say goodbye, never gonna tell a lie and hurt you.
+- [Adding HTML elements](https://docs.nordcraft.com/the-editor/element-tree)
+- [Creating components](https://docs.nordcraft.com/components/create-a-component)
+- [Applying CSS using the style panel](https://docs.nordcraft.com/styling/styles-and-layout)
+- [Creating pages](https://docs.nordcraft.com/pages/create-a-page)
 
-We've known each other for so long, your heart's been aching but you're too shy to say it. Inside we both know what's been going on, we know the game and we're gonna play it. And if you ask me how I'm feeling, don't tell me you're too blind to see.
+## [Lesson 2: Build a Keanu Whoa! catalogue](/lesson-2)
 
-Never gonna give you up, never gonna let you down, never gonna run around and desert you. Never gonna make you cry, never gonna say goodbye, never gonna tell a lie and hurt you.
-```
+Learn about:
 
-## Lesson 2: Build a Keanu Whoa! catalogue
+- [Getting data from APIs](https://docs.nordcraft.com/connecting-data/working-with-apis)
+- [Creating dynamic pages using data from an API](https://docs.nordcraft.com/pages/static-and-dynamic#dynamic-pages)
+- [Using the repeat formula](https://docs.nordcraft.com/formulas/repeat-formula#repeat-formula)
+- [Formatting dates](https://docs.nordcraft.com/references/formulas#format-date)
 
-- [View the finished project](https://whoa.toddle.site/)
-- [Open Lesson 2 in the Nordcraft editor](https://editor.nordcraft.com/projects/whoa/branches/main/components/HomePage)
+## [Lesson 3: Build a Pomodoro timer](/lesson-3)
 
-### URL to Keanu Head
+Learn about:
 
-`https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-2/keanu_head.png`
+- [Using variables to manage application state](https://docs.nordcraft.com/variables/overview)
+- [Formulas](https://docs.nordcraft.com/formulas/overview)
+- [Workflows](https://docs.nordcraft.com/workflows/overview)
+- [Installing and using Nordcraft packages](https://docs.nordcraft.com/packages/overview)
 
-### URL to Movies API
-
-`https://whoa.onrender.com/whoas/movies`
-
-### URL to Whoa by Movies API
-
-`https://whoa.onrender.com/whoas/random`
-
-The full URL to get a Whoa by Movie with a query parameter will look like this: `https://whoa.onrender.com/whoas/random?movie=the%2520matrix`
-
-## Lesson 3: Build a Pomodoro timer
-
-- [View the finished project](https://focustimer.toddle.site/)
-- [Open Lesson 3 in the Nordcraft editor](https://editor.nordcraft.com/projects/focustimer/branches/main/components/HomePage)
-
-### SVG code to paste into the editor
-
-From [heroicons](https://heroicons.com/).
-
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-</svg>
-```
-
-### URL to focus timer alert sound
-
-`https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-3/focus_alert.mp3`
+## [Lesson 4: Build an Important Office Productivity Assessment Survey](/lesson-4)
