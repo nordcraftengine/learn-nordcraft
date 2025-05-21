@@ -42,3 +42,7 @@ Learn about:
 - [Installing and using Nordcraft packages](https://docs.nordcraft.com/packages/overview)
 
 ## [Lesson 4: Build an Important Office Productivity Assessment Survey](/lesson-4)
+
+Learn about:
+
+- [Adding services](https://docs.nordcraft.com/connecting-data/services)

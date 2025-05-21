@@ -17,4 +17,7 @@ We have created a database for you to POST to, but you may wish to create your p
 
 ![Supabase table schema](supabase_table_schema.png)
 
-For more information, check out the [Supabase documentation](https://supabase.com/docs/guides/database/overview)
+For more information, check out the [Supabase documentation](https://supabase.com/docs/guides/database/overview).
+
+## Setting up the Supabase service in Nordcraft
+
