@@ -15,4 +15,6 @@ From [heroicons](https://heroicons.com/).
 
 ## URL to focus timer alert sound
 
-`https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-3/focus_alert.mp3`
+```text
+https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-3/focus_alert.mp3
+```
