@@ -1,6 +1,6 @@
 # Learn Nordcraft 2025
 
-This repository includes supporting materials, assets and copy-pastable URLs and code snippets for the Learn Norcraft video course.
+This repository includes supporting materials, assets, copy-pastable URLs and code snippets for the Learn Norcraft video course.
 
 Click on each bullet point below to go to the relevant section of the [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
