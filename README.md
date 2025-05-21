@@ -6,6 +6,8 @@ Click on each bullet point below to go to the relevant section of the [Nordcraft
 
 ## Lesson 0: What is Nordcraft
 
+There's nothing to build in this lesson, but you'll get an overview of what Nordcraft is, who it's for, and what it can do.
+
 Learn about:
 
 - [The Web Development Engine](https://docs.nordcraft.com/about)
