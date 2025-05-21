@@ -4,7 +4,7 @@ This repository includes supporting materials, assets, copy-pastable URLs and co
 
 Click on each bullet point below to go to the relevant section of the [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
-## Lesson 0: What is Nordcraft
+## Lesson 0: What is Nordcraft?
 
 There's nothing to build in this lesson, but you'll get an overview of what Nordcraft is, who it's for, and what it can do.
 
