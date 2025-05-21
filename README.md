@@ -38,7 +38,7 @@ Learn about:
 
 ## [Lesson 3: Build a Pomodoro timer](/lesson-3)
 
-In this lesson, you'll build a pomodoro timer to count down from 25 minutes, 5 minutes, or 15 minutes. You'll also set up a sound to play when the timer reaches 0.
+In this lesson, you'll build a Pomodoro timer to count down from 25 minutes, 5 minutes, or 15 minutes. You'll also set up a sound to play when the timer reaches 0.
 
 Learn about:
 
