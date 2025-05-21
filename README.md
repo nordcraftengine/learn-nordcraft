@@ -16,6 +16,8 @@ Learn about:
 
 ## [Lesson 1: Build a Linktree-style personal website](/lesson-1)
 
+In this lesson, you'll build a Linktree-style website for Rick Astley with two static pages.
+
 Learn about:
 
 - [Adding HTML elements](https://docs.nordcraft.com/the-editor/element-tree)
@@ -24,6 +26,8 @@ Learn about:
 - [Creating pages](https://docs.nordcraft.com/pages/create-a-page)
 
 ## [Lesson 2: Build a Keanu Whoa! catalogue](/lesson-2)
+
+In this lesson, you'll build an application to fetch data from an API and render it on a page. You'll also learn how to create dynamic pages using dynamic URL path parameters to fetch specific data to render on the page.
 
 Learn about:
 
@@ -34,6 +38,8 @@ Learn about:
 
 ## [Lesson 3: Build a Pomodoro timer](/lesson-3)
 
+In this lesson, you'll build a pomodoro timer to count down from 25 minutes, 5 minutes, or 15 minutes. You'll also set up a sound to play when the timer reaches 0.
+
 Learn about:
 
 - [Using variables to manage application state](https://docs.nordcraft.com/variables/overview)
@@ -43,6 +49,13 @@ Learn about:
 
 ## [Lesson 4: Build an Important Office Productivity Assessment Survey](/lesson-4)
 
+In this lesson, you'll build a multi-step form with validation, save form data to session storage, and POST it to an API when the form is complete.
+
 Learn about:
 
 - [Adding services](https://docs.nordcraft.com/connecting-data/services)
+- [Configuring APIs to post data](https://docs.nordcraft.com/connecting-data/working-with-apis#configure-api-requests)
+- [Saving to session storage](https://docs.nordcraft.com/references/actions#save-to-session-storage)
+- [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
+- [Working with components](https://docs.nordcraft.com/components/overview)
+- [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
