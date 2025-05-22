@@ -55,6 +55,7 @@ Learn about:
 
 - [Adding services](https://docs.nordcraft.com/connecting-data/services)
 - [Configuring APIs to post data](https://docs.nordcraft.com/connecting-data/working-with-apis#configure-api-requests)
+- [Workflows](https://docs.nordcraft.com/workflows/overview)
 - [Saving to session storage](https://docs.nordcraft.com/references/actions#save-to-session-storage)
 - [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
 - [Working with components](https://docs.nordcraft.com/components/overview)
