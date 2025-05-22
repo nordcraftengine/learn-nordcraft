@@ -12,7 +12,7 @@ We have created a database for you to POST to, but you may wish to create your p
 1. [Sign up to Supabase](https://supabase.com/dashboard/sign-up)
 1. Create a new project (name it e.g. `learn_nordcraft_office_productivity`)
 1. Ensure Row Level Security (RLS) is enabled (this is on by default)
-1. If you're using your own database, you will want to add the RLS: `Enable insert for authenticated users only`
+1. If you're using your own database, you will want to add the RLS policy: `Enable insert for authenticated users only`
 1. Add the following columns to the database; make sure the types match:
 
 ![Supabase table schema](supabase_table_schema.png)
