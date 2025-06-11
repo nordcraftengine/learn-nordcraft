@@ -14,6 +14,10 @@ Learn about:
 - [Use cases](https://docs.nordcraft.com/use-cases)
 - [Core concepts](https://docs.nordcraft.com/use-cases)
 
+### Watch Lesson 0 on YouTube
+
+[![What is Nordcraft on YouTube](https://img.youtube.com/vi/rbBwuc_M8Vc/0.jpg)](https://www.youtube.com/watch?v=rbBwuc_M8Vc)
+
 ## [Lesson 1: Build a Linktree-style personal website](/lesson-1)
 
 In this lesson, you'll build a Linktree-style website for Rick Astley with two static pages.
