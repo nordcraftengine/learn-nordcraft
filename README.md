@@ -29,6 +29,10 @@ Learn about:
 - [Applying CSS using the style panel](https://docs.nordcraft.com/styling/styles-and-layout)
 - [Creating pages](https://docs.nordcraft.com/pages/create-a-page)
 
+### Watch Lesson 1 on YouTube
+
+[![What is Nordcraft on YouTube](https://img.youtube.com/vi/3U0UVetAQNc/0.jpg)](https://www.youtube.com/watch?v=3U0UVetAQNc)
+
 ## [Lesson 2: Build a Keanu Whoa! catalogue](/lesson-2)
 
 In this lesson, you'll build an application to fetch data from an API and render it on a page. You'll also learn how to create dynamic pages using dynamic URL path parameters to fetch specific data to render on the page.
