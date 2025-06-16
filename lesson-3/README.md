@@ -1,7 +1,7 @@
 # Lesson 3: Build a Pomodoro timer
 
 - [View the finished project](https://focustimer.toddle.site/)
-- [Open Lesson 3 in the Nordcraft editor](https://editor.nordcraft.com/projects/focustimer/branches/main/components/HomePage)
+- [Open Lesson 3 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/focustimer/branches/main/components/HomePage)
 
 ## SVG code to paste into the editor
 

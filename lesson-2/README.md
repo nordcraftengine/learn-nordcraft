@@ -1,7 +1,7 @@
 # Lesson 2: Build a Keanu Whoa! catalogue
 
 - [View the finished project](https://whoa.toddle.site/)
-- [Open Lesson 2 in the Nordcraft editor](https://editor.nordcraft.com/projects/whoa/branches/main/components/HomePage)
+- [Open Lesson 2 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/whoa/branches/main/components/HomePage)
 
 ## URL to Keanu Head
 

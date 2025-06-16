@@ -1,7 +1,7 @@
 # Lesson 1: Build a Linktree-style personal website
 
 - [View the finished project](https://linktree.toddle.site/)
-- [Open Lesson 1 in the Nordcraft editor](https://editor.nordcraft.com/projects/linktree/branches/main/components/HomePage)
+- [Open Lesson 1 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/linktree/branches/main/components/HomePage)
 
 ## URL to Rick's profile picture
 

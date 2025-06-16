@@ -1,7 +1,7 @@
 # Lesson 4: Build an Important Office Productivity Assessment Survey
 
 - [View the finished project](https://productivity.toddle.site/)
-- [Open Lesson 4 in the Nordcraft editor](https://editor.nordcraft.com/projects/productivity/branches/main/components/HomePage)
+- [Open Lesson 4 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/productivity/branches/main/components/HomePage)
 
 During this lesson, you will POST data collected in a multi-step form to a Supabase database.
 
