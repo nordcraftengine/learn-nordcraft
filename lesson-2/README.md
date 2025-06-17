@@ -2,20 +2,21 @@
 
 - [View the finished project](https://whoa.toddle.site/)
 - [Open Lesson 2 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/whoa/branches/main/components/HomePage)
+- [View the Keanu Whoa! API documentation](https://whoa.onrender.com/)
 
-## URL to Keanu Head
+## URL for Keanu Head image
 
 ```text
 https://raw.githubusercontent.com/nordcraftengine/learn-nordcraft/main/lesson-2/keanu_head.png
 ```
 
-## URL to Movies API
+## URL for Movies API
 
 ```text
 https://whoa.onrender.com/whoas/movies
 ```
 
-## URL to Whoa by Movies API
+## URL for Whoa by Movies API
 
 ```text
 https://whoa.onrender.com/whoas/random
