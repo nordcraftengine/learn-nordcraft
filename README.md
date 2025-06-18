@@ -42,6 +42,7 @@ Learn about:
 - [Getting data from APIs](https://docs.nordcraft.com/connecting-data/working-with-apis)
 - [Creating dynamic pages using data from an API](https://docs.nordcraft.com/pages/static-and-dynamic#dynamic-pages)
 - [Using the repeat formula](https://docs.nordcraft.com/formulas/repeat-formula#repeat-formula)
+- [Concatenating data](https://docs.nordcraft.com/references/formulas#concatenate)
 - [Formatting dates](https://docs.nordcraft.com/references/formulas#format-date)
 
 ## [Lesson 3: Build a Pomodoro timer](/lesson-3)
