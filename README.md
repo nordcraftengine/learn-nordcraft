@@ -29,9 +29,7 @@ Learn about:
 - [Applying CSS using the style panel](https://docs.nordcraft.com/styling/styles-and-layout)
 - [Creating pages](https://docs.nordcraft.com/pages/create-a-page)
 
-### Watch Lesson 1 on YouTube
-
-[![Watch Lesson 1 on Youtube](https://img.youtube.com/vi/3U0UVetAQNc/0.jpg)](https://www.youtube.com/watch?v=3U0UVetAQNc)
+[![Watch Lesson 1 on YouTube](https://img.youtube.com/vi/3U0UVetAQNc/0.jpg)](https://www.youtube.com/watch?v=3U0UVetAQNc)
 
 ## [Lesson 2: Build a Keanu Whoa! catalogue](/lesson-2)
 
@@ -45,7 +43,7 @@ Learn about:
 - [Concatenating data](https://docs.nordcraft.com/references/formulas#concatenate)
 - [Formatting dates](https://docs.nordcraft.com/references/formulas#format-date)
 
-[![Watch Lesson 2 on Youtube](https://img.youtube.com/vi/ZhlM7Pw5Njg/0.jpg)](https://www.youtube.com/watch?v=ZhlM7Pw5Njg)
+[![Watch Lesson 2 on YouTube](https://img.youtube.com/vi/ZhlM7Pw5Njg/0.jpg)](https://www.youtube.com/watch?v=ZhlM7Pw5Njg)
 
 ## [Lesson 3: Build a Pomodoro timer](/lesson-3)
 
@@ -57,6 +55,8 @@ Learn about:
 - [Formulas](https://docs.nordcraft.com/formulas/overview)
 - [Workflows](https://docs.nordcraft.com/workflows/overview)
 - [Installing and using Nordcraft packages](https://docs.nordcraft.com/packages/overview)
+
+[![Watch Lesson 3 on YouTube](https://img.youtube.com/vi/YhECT8QWk60/0.jpg)](https://www.youtube.com/watch?v=YhECT8QWk60)
 
 ## [Lesson 4: Build an Important Office Productivity Assessment Survey](/lesson-4)
 
