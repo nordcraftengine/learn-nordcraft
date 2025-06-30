@@ -1,5 +1,9 @@
 # Lesson 4: Build an Important Office Productivity Assessment Survey
 
+- [View the starter project and clone it to your Nordcraft account](https://productivity_starter.toddle.site/)
+
+![Screenshot showing the Built in Nordcraft overlay on the app with a link to clone the starter project](clone_starter.png)
+
 - [View the finished project](https://productivity.toddle.site/)
 - [Open Lesson 4 (completed) in the Nordcraft editor](https://editor.nordcraft.com/projects/productivity/branches/main/components/HomePage)
 
