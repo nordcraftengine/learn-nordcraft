@@ -70,5 +70,4 @@ Learn about:
 - [Using variables to manage application state](https://docs.nordcraft.com/variables/overview)
 - [Saving to session storage](https://docs.nordcraft.com/references/actions#save-to-session-storage)
 - [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
-- [Working with components](https://docs.nordcraft.com/components/overview)
 - [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
