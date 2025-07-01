@@ -71,3 +71,5 @@ Learn about:
 - [Saving to session storage](https://docs.nordcraft.com/references/actions#save-to-session-storage)
 - [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
 - [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
+
+[![Watch lesson 4 on YouTube](https://img.youtube.com/vi/YVF6eBY0RNE/0.jpg)](https://www.youtube.com/watch?v=YVF6eBY0RNE)
