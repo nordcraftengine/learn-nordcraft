@@ -58,17 +58,18 @@ Learn about:
 
 [![Watch Lesson 3 on YouTube](https://img.youtube.com/vi/YhECT8QWk60/0.jpg)](https://www.youtube.com/watch?v=YhECT8QWk60)
 
-## [Lesson 4: Build an Important Office Productivity Assessment Survey](/lesson-4)
+## [Lesson 4: Build a multi-step form](/lesson-4)
 
 In this lesson, you'll build a multi-step form with validation, save form data to session storage, and POST it to an API when the form is complete.
 
 Learn about:
 
 - [Adding services](https://docs.nordcraft.com/connecting-data/services)
+- [Nordcraft Supabase service](https://docs.nordcraft.com/connecting-data/services#supabase)
 - [Configuring APIs to post data](https://docs.nordcraft.com/connecting-data/working-with-apis#configure-api-requests)
 - [Using variables to manage application state](https://docs.nordcraft.com/variables/overview)
 - [Saving to session storage](https://docs.nordcraft.com/references/actions#save-to-session-storage)
 - [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
 - [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
 
-[![Watch lesson 4 on YouTube](https://img.youtube.com/vi/YVF6eBY0RNE/0.jpg)](https://www.youtube.com/watch?v=YVF6eBY0RNE)
+[![Watch lesson 4 on YouTube](https://img.youtube.com/vi/0DS2xurcSdw/0.jpg)](https://www.youtube.com/watch?v=0DS2xurcSdw)
