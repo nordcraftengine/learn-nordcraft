@@ -72,4 +72,4 @@ Learn about:
 - [Reading from session storage](https://docs.nordcraft.com/references/formulas#get-from-session-storage)
 - [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
 
-[![Watch lesson 4 on YouTube](https://img.youtube.com/vi/0DS2xurcSdw/0.jpg)](https://www.youtube.com/watch?v=0DS2xurcSdw)
+[![Watch lesson 4 on YouTube](https://img.youtube.com/vi/5gWonN_51A4/0.jpg)](https://www.youtube.com/watch?v=5gWonN_51A4)
