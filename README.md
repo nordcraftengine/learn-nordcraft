@@ -2,13 +2,11 @@
 
 This repository includes supporting materials, assets, copy-pastable URLs and code snippets for the Learn Norcraft video course.
 
-Click on each bullet point below to go to the relevant section of the
-[Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
+Click on each bullet point below to go to the relevant section of the [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
 ## Lesson 0: What is Nordcraft?
 
-There's nothing to build in this lesson, but you'll get an overview of what Nordcraft is, who it's for, and what it can
-do.
+There's nothing to build in this lesson, but you'll get an overview of what Nordcraft is, who it's for, and what it can do.
 
 Learn about:
 
@@ -35,8 +33,7 @@ Learn about:
 
 ## [Lesson 2: Build a Keanu Whoa! catalogue](/lesson-2)
 
-In this lesson, you'll build an application to fetch data from an API and render it on a page. You'll also learn how to
-create dynamic pages using dynamic URL path parameters to fetch specific data to render on the page.
+In this lesson, you'll build an application to fetch data from an API and render it on a page. You'll also learn how to create dynamic pages using dynamic URL path parameters to fetch specific data to render on the page.
 
 Learn about:
 
@@ -50,8 +47,7 @@ Learn about:
 
 ## [Lesson 3: Build a Pomodoro timer](/lesson-3)
 
-In this lesson, you'll build a Pomodoro timer to count down from 25 minutes, 5 minutes, or 15 minutes. You'll also set
-up a sound to play when the timer reaches 0.
+In this lesson, you'll build a Pomodoro timer to count down from 25 minutes, 5 minutes, or 15 minutes. You'll also set up a sound to play when the timer reaches 0.
 
 Learn about:
 
