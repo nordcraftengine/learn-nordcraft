@@ -73,3 +73,16 @@ Learn about:
 - [Show/hide formula](https://docs.nordcraft.com/formulas/show-hide-formula#show-hide-formula)
 
 [![Watch lesson 4 on YouTube](https://img.youtube.com/vi/5gWonN_51A4/0.jpg)](https://www.youtube.com/watch?v=5gWonN_51A4)
+
+## [Lesson 5: Build a multi-language website](/lesson-5)
+
+In this lesson, you'll build a landing page with localized content from a CMS that supports multiple languages.
+
+Learn about:
+
+- [Adding services](https://docs.nordcraft.com/connecting-data/services)
+- [GraphQL Explorer](https://docs.nordcraft.com/connecting-data/working-with-apis#graphql-explorer)
+- [Context](https://docs.nordcraft.com/contexts/overview#contexts)
+- [Custom actions](https://docs.nordcraft.com/actions/overview#actions)
+
+[![Watch lesson 5 on YouTube](https://img.youtube.com/vi/ID HERE/0.jpg)](https://www.youtube.com/watch?v=ID HERE)
