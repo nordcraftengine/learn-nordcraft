@@ -2,7 +2,8 @@
 
 This repository includes supporting materials, assets, copy-pastable URLs and code snippets for the Learn Norcraft video course.
 
-Click on each bullet point below to go to the relevant section of the [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
+Click on each bullet point below to go to the relevant section of the
+[Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
 ## Lesson 0: What is Nordcraft?
 
@@ -82,7 +83,7 @@ Learn about:
 
 - [Adding services](https://docs.nordcraft.com/connecting-data/services)
 - [GraphQL Explorer](https://docs.nordcraft.com/connecting-data/working-with-apis#graphql-explorer)
-- [Context](https://docs.nordcraft.com/contexts/overview#contexts)
+- [Sharing state using Context](https://docs.nordcraft.com/contexts/overview#contexts)
 - [Custom actions](https://docs.nordcraft.com/actions/overview#actions)
 
-Coming soon!
+[![Watch lesson 5 on YouTube](https://img.youtube.com/vi/_R3qAbfkj_M/0.jpg)](https://www.youtube.com/watch?v=_R3qAbfkj_M)
