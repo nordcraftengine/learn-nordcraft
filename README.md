@@ -5,20 +5,6 @@ This repository includes supporting materials, assets, copy-pastable URLs and co
 Click on each bullet point below to go to the relevant section of the
 [Nordcraft documentation](https://docs.nordcraft.com) for more detailed information.
 
-## Lesson 0: What is Nordcraft?
-
-There's nothing to build in this lesson, but you'll get an overview of what Nordcraft is, who it's for, and what it can do.
-
-Learn about:
-
-- [The Web Development Engine](https://docs.nordcraft.com/about)
-- [Use cases](https://docs.nordcraft.com/use-cases)
-- [Core concepts](https://docs.nordcraft.com/use-cases)
-
-### Watch Lesson 0 on YouTube
-
-[![What is Nordcraft on YouTube](https://img.youtube.com/vi/rbBwuc_M8Vc/0.jpg)](https://www.youtube.com/watch?v=rbBwuc_M8Vc)
-
 ## [Lesson 1: Build a Linktree-style personal website](/lesson-1)
 
 In this lesson, you'll build a Linktree-style website for Rick Astley with two static pages.
